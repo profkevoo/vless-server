@@ -1,0 +1,9 @@
+{
+  "name": "vless-serverless",
+  "version": "1.0.0",
+  "description": "Vless server for serverless platforms",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
